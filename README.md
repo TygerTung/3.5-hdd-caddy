@@ -18,5 +18,7 @@ If you do not have access to a laser cutter, many public libraries now have them
 ![IMG_9543](https://github.com/user-attachments/assets/20e88f53-9166-4fb7-a50b-15199c82b26f)
 ![IMG_9545](https://github.com/user-attachments/assets/d62100a5-6e44-4d7b-bdf3-2abb827c9876)
 
-Released under GPL3 Licence. Resources used to draw were boxes.py and Inkscape
+Released under GPL-3.0 Licence.
+Resources used to draw were boxes.py and Inkscape
+
 https://boxes.hackerspace-bamberg.de/
